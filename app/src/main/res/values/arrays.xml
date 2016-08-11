@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pattern">
+        <item>工作模式</item>
+        <item>睡眠模式</item>
+        <item>学习模式</item>
+        <item>儿童模式</item>
+        <item>新建...</item>
+    </string-array>
+
+    <string-array name="strength">
+        <item>严格监督</item>
+        <item>温柔监督</item>
+    </string-array>
+</resources>
